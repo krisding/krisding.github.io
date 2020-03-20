@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to dingfeng's Pages
+
+刚创建的pages，等待填充
 
 You can use the [editor on GitHub](https://github.com/krisding/krisding.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
